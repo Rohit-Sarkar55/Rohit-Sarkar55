@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohit Sarkar
-- 👀 I’m interested in Software Development , Blockchain , AI & Machine Learning 
+- 👀 I’m interested in Software Development , Competetive Programming , Blockchain , AI & Machine Learning 
 - 🌱 I’m currently learning React JS , JavaScript , Mern 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
