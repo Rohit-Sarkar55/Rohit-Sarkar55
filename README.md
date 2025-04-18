@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rohit Sarkar
 - 👀 I’m interested in Software Development , Competetive Programming , Blockchain , AI & Machine Learning 
 - 🌱 I’m currently learning React JS , JavaScript , Mern 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ 
+- 📫 Resume Link:  https://drive.google.com/file/d/14BR-rrsJHPjn3e5oz9bNS5NwR3HHL56O/view?usp=sharing
 - 
 - linkedin.com/in/rohit-sarkar-a592771b2
 - https://www.codechef.com/users/rohit_sarkar
