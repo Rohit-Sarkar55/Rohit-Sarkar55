@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit Sarkar
 - 👀 I’m a Software Engineer interested in Software Development , Competetive Programming , Blockchain , AI & Machine Learning 
-- 🌱 I’m currently learning React JS , JavaScript , Mern 
+- 🌱 I’m currently learning React JS , Mern 
 - 💞️ 
 - 📫 Resume Link:  https://drive.google.com/file/d/14BR-rrsJHPjn3e5oz9bNS5NwR3HHL56O/view?usp=sharing
 - 
